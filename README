@@ -1,0 +1,33 @@
+Week 1 Toy Problems
+
+1. Student Grade Generator
+
+Used to grade students by the marks scored.
+
+Setup instructions
+npm install
+npm test
+
+2. Speed Detector
+
+Monitors speed and awards demerits to overspeeding cars
+
+Setup instructions
+npm install
+npm test
+
+3. Net Salary Calculator
+
+Calculates net salary, NHIF deductions, NSSF deductions and gross salary
+
+Setup instructions
+npm install
+npm test
+
+
+[Alfred Oriri]
+[alfred.oriri@student.moringaschool]
+[github.com/oriri04/]
+
+
+
